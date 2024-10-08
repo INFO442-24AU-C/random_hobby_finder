@@ -1,2 +1,2 @@
 # Random Hobby Finder
-Nicole Herman, Karishma Raj, Louting Liu
+Nicole Herman, Karishma Raj, Luoting Liu
