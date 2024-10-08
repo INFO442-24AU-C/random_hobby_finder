@@ -1,2 +1,2 @@
-# Group-2
+# Random Hobby Finder
 Nicole Herman, Karishma Raj, Louting Liu
